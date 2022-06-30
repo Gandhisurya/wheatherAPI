@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(200, 250, 200);
+}
+
+.a{
+    display:grid; 
+    justify-content: center;
+    align-items: center;
+    border: 3px solid rgb(139, 49, 49);
+    border-radius: 10px;
+    margin-top: 10%;
+    margin-left: 28%;
+    width: 40%;
+    height: auto;
+    
+}
+
+.b{
+    color: darkgoldenrod;
+
+}
+
+.c{
+    font-size: 15px;
+    color: darkgoldenrod;
+}
+
+.d{
+    margin: 2rem 0;  
+    padding: 0.5rem;
+    border-radius: 10px ;
+}
+
+#cityInput{
+    margin: 1rem 0;
+    padding: 0.5rem 0.5rem;
+    border: 1px solid ;
+    border-radius: 10px ;
+}
+
